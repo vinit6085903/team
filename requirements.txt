@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-binance
+python-dotenv
+numpy
+pandas
+requests
+streamlit
+git
